@@ -9,8 +9,8 @@
 * **E**xtract: 
 * Our original data came from two sources, one in a CSV file and another was a SQLite database with multiple tables.
     * [Cannabis CSV Data](https://www.kaggle.com/kingburrito666/cannabis-strains/downloads/cannabis-strains.zip/9)
-    * The data in this CSV came from Leafly.com, a cannabis supply website with educational content and reviews for various strains
-    * [Cannabis Lineage, Growth, and Psych. Effects] (https://www.kaggle.com/tictactouka/cannabis)
+    *   The data in this CSV came from Leafly.com, a cannabis supply website with educational content and reviews for various strains
+    * [Cannabis Lineage, Growth, and Psych. Effects](https://www.kaggle.com/tictactouka/cannabis)
 
 * **T**ransform: what data cleaning or transformation was required.
 * From the SQLite database, we selected data that pertained to medical effects and medical rating
